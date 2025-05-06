@@ -1,5 +1,14 @@
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeclanBengtson&show_icons=true&hide_title=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeclanBengtson&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="Declan%20Bengtson.png" alt="Declan Bengtson banner" />
 </p>
+
+## Declan Bengtson
+
+Software engineer with a focus on systems integration, full-stack development, and cloud infrastructure. I’m interested in building reliable, scalable solutions and continuously improving through hands-on experience and learning.
+
+### Areas of Interest
+- Full-stack development (Next.js, Node.js, TypeScript)
+- System design and integration
+- Cloud infrastructure (Azure, AWS)
+- Automation and data workflows
+
