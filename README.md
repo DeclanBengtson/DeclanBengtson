@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Declan%20Bengtson.png" alt="Declan Bengtson banner" />
-</p>
 
 ## Declan Bengtson
 
